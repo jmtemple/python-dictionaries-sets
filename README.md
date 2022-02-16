@@ -13,7 +13,7 @@ This tutorial is licensed under a <a href="http://creativecommons.org/licenses/b
 ## Acknowledgements
 
 Elements of this lab procedure were adapted from materials developed by [Dr. Peter Bui](http://www3.nd.edu/~pbui/) for the [CSE 10101 "Elements of Computing I" course](https://www3.nd.edu/~pbui/teaching/cdt.30010.fa16/).
-- [Reading 06: Dictionaries, Sets](https://www3.nd.edu/~pbui/teaching/cdt.30010.fa16/reading06.html)
+- [Reading 05: Dictionaries, Sets](https://www3.nd.edu/~pbui/teaching/cdt.30010.fa16/reading06.html)
 
 Elements of this lab procedure were adapted from materials developed by [Dr. Janet Davis](https://cs.whitman.edu/~davisj/) for the the [CSC 105 "The Digital Age" course](https://www.cs.grinnell.edu/~davisjan/csc/105/2012S/). 
 - [Laboratory: Programming in Python](http://www.cs.grinnell.edu/~davisjan/csc/105/labs/python1.html)
@@ -301,18 +301,26 @@ s
 
 <blockquote>Q3: What is the difference between a <code>list</code> and a <code>dict</code>? When would we prefer one over the other?</blockquote>
 
-<blockquote>Q4: Include a link to your Replit project workspace.</blockquote>
+<blockquote> Q4: Extra Credit: Create a Madlib like the one shown in class using your own dictionary. 
+Requirements: 
+<ol type="a">
+  <li>Have user input words stored as key value pairs.</li>
+  <li>Output should be a funny story about from your life where you make people, places, and actions change based on user inputs.</li>
+  <li>Make use of each of the following: type casting, arithmetic operators, and methods.</li>
+</ol>
+ 
+ </blockquote>
 
 # How to submit this lab (and show your work)
 
-37. Moving forward, we'll submit lab notebooks as `.py` files. 
+37. Moving forward, we'll submit lab notebooks as `.ipynb` files. 
 
 38. One option is to have a `.py` file that you use to run code and test programs while working through the lab. When ready to submit the lab notebook, you add comments and remove extraneous materials.
 
 39. Another option is to have an "official" `.py` file that you are using as a lab notebook (separate from your working/testing file). Use comments in Python to note when you are starting a new question (as well as answering a question).
-  * Example: `Lab5_Notebook_Walden.py`
+  * Example: `Lab5_Notebook_Templeton.ipynb`
 
-40. What gets submitted as the lab notebook is the `Lab5_Notebook_Walden.py` file.
+40. What gets submitted as the lab notebook is the `Lab5_Notebook_Templeton.ipynb` file.
 - When in doubt, use comments
 - Be sure you are using comments to note what question you're responding to
 
@@ -336,4 +344,10 @@ Q2: Create the set `s` with the following values: `[1, 3, 5, 7, 9]`
   
 Q3: What is the difference between a `list` and a `dict`? When would we prefer one over the other?
 
-Q4: Include a link to your Replit project workspace.
+Q4: Extra Credit: Create a Madlib like the one shown in class using your own dictionary. 
+Requirements: 
+<ol type="a">
+  <li>Have user input words stored as key value pairs.</li>
+  <li>Output should be a funny story about from your life where you make people, places, and actions change based on user inputs.</li>
+  <li>Make use of each of the following: type casting, arithmetic operators, and methods.</li>
+</ol>
